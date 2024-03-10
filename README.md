@@ -19,3 +19,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alihoushngi&show_icons=true&locale=en&layout=compact" alt="alihoushngi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alihoushngi&show_icons=true&locale=en" alt="alihoushngi" /></p>
+
+<a href="https://wakatime.com/badge/user/1938e314-b144-48d0-8045-7d1e6ee4e1c9/project/018e1453-937a-4560-94d7-0cac6082a3cc"><img src="https://wakatime.com/badge/user/1938e314-b144-48d0-8045-7d1e6ee4e1c9/project/018e1453-937a-4560-94d7-0cac6082a3cc.svg" alt="wakatime"></a>

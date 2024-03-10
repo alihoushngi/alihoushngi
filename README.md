@@ -2,6 +2,7 @@
 <h3 align="center">Passionate Next.js Front-End Developer creating exceptional user experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alihoushngi&label=Profile%20views&color=0e75b6&style=flat" alt="alihoushngi" /> </p>
+<a href="https://wakatime.com/badge/user/1938e314-b144-48d0-8045-7d1e6ee4e1c9/project/018c0b92-8e46-47ef-8de3-d8f32b78caa8"><img src="https://wakatime.com/badge/user/1938e314-b144-48d0-8045-7d1e6ee4e1c9/project/018c0b92-8e46-47ef-8de3-d8f32b78caa8.svg" alt="wakatime"></a>
 
 - 🔭 I’m currently working on **Shopping Project**
 
@@ -20,4 +21,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alihoushngi&show_icons=true&locale=en" alt="alihoushngi" /></p>
 
-<a href="https://wakatime.com/badge/user/1938e314-b144-48d0-8045-7d1e6ee4e1c9/project/018e1453-937a-4560-94d7-0cac6082a3cc"><img src="https://wakatime.com/badge/user/1938e314-b144-48d0-8045-7d1e6ee4e1c9/project/018e1453-937a-4560-94d7-0cac6082a3cc.svg" alt="wakatime"></a>

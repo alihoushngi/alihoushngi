@@ -21,3 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alihoushngi&show_icons=true&locale=en" alt="alihoushngi" /></p>
 
+<figure><embed src="https://wakatime.com/share/@blumy/49262164-84f7-4915-87c7-4b68488a1821.svg"></embed></figure>

@@ -19,8 +19,11 @@
 
 <img src="https://myreadme.vercel.app/api/embed/alihoushngi?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alihoushngi&show_icons=true&locale=en&layout=compact" alt="alihoushngi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alihoushngi&show_icons=true&locale=en" alt="alihoushngi" /></p>
+  <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=alihoushngi&show_icons=true&locale=en&layout=compact" alt="alihoushngi" /></p>
+
+<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=alihoushngi&show_icons=true&locale=en" alt="alihoushngi" /></p>
+
+
 
 <figure><embed src="https://wakatime.com/share/@blumy/49262164-84f7-4915-87c7-4b68488a1821.svg"></embed></figure>

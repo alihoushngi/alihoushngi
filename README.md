@@ -20,9 +20,9 @@
 <img src="https://myreadme.vercel.app/api/embed/alihoushngi?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 
-  <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=alihoushngi&show_icons=true&locale=en&layout=compact" alt="alihoushngi" /></p>
+  <p align="left"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=alihoushngi&show_icons=true&locale=en&layout=compact" alt="alihoushngi" /></p>
 
-<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=alihoushngi&show_icons=true&locale=en" alt="alihoushngi" /></p>
+<p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=alihoushngi&show_icons=true&locale=en" alt="alihoushngi" /></p>
 
 
 

@@ -2,7 +2,7 @@
 <h3 align="center">Passionate Next.js Front-End Developer creating exceptional user experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alihoushngi&label=Profile%20views&color=0e75b6&style=flat" alt="alihoushngi" /> </p>
-
+<a href="https://wakatime.com/@1938e314-b144-48d0-8045-7d1e6ee4e1c9"><img src="https://wakatime.com/badge/user/1938e314-b144-48d0-8045-7d1e6ee4e1c9.svg" alt="Total time coded since Nov 22 2021" /></a>
 
 - 🔭 I’m currently working on **Shopping Project**
 

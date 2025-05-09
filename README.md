@@ -1,26 +1,72 @@
-<h1 align="center">Hi 👋, I'm ali houshangi</h1>
-<h3 align="center">Passionate Next.js Front-End Developer creating exceptional user experiences.</h3>
+# Hi, I'm Ali Hooshangi 👋
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=alihoushngi&label=Profile%20views&color=0e75b6&style=flat" alt="alihoushngi" /> <a href="https://wakatime.com/@1938e314-b144-48d0-8045-7d1e6ee4e1c9"><img src="https://wakatime.com/badge/user/1938e314-b144-48d0-8045-7d1e6ee4e1c9.svg" alt="Total time coded since Nov 22 2021" /></a></p>
+I'm a Front-End Developer with over 5 years of experience creating engaging and scalable web applications. I specialize in modern frameworks like **Next.js** and **React** and focus on writing clean, maintainable code. Whether I'm developing dynamic dashboards or teaching web design fundamentals, I strive to craft user-centric solutions and collaborate effectively with diverse teams.
 
+---
 
-- 🔭 I’m currently working on **Shopping Project**
+## 🚀 Skills
 
-- 📫 How to reach me **Blumy.info@gmail.com**
+- **Languages & Markup:** HTML, CSS, JavaScript, TypeScript, SASS
+- **Frameworks & Libraries:** React, Next.js, Redux, Context API, RTK-Query, Formik, Yup
+- **UI & Styling Tools:** Bootstrap, Tailwind CSS, AOS, i18Next
+- **Other:** Moment.js, ReChart, Leaflet, SEO best practices, cookies-next, RESTful APIs, Git, Figma
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/alihoushangi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alihoushangi/" height="30" width="40" /></a>
-<a href="https://instagram.com/alihoushangi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alihoushangi_" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 💼 Experience
 
-<img src="https://myreadme.vercel.app/api/embed/alihoushngi?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+### Front-End Developer at Online Salamat Company  
+*2024 – Present*  
+- Developed and maintained the Dayere Salamat management dashboard and primary application.  
+- Continuously enhanced functionality by integrating new features and optimizing performance.  
+- Collaborated with cross-team members to deliver seamless and efficient solutions.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alihoushngi&show_icons=true&locale=en&layout=compact" alt="alihoushngi" /></p>
+### Instructor, Web Design Course at Tehran Technical Complex (Rasht Branch)  
+*2024*  
+- Delivered comprehensive lessons on HTML, CSS, JavaScript, SASS, Tailwind CSS, and version control with Git.
+- Introduced UI design techniques and best practices using Figma to aspiring developers.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alihoushngi&show_icons=true&locale=en" alt="alihoushngi" /></p>
+### Technical Lead at Hira Company  
+*2023 – 2024*  
+- Led website design and development projects using WordPress and Next.js.  
+- Coordinated project progress among design, backend, and technical teams while maintaining clear communication with clients on planning and delivery.
 
-<figure><embed src="https://wakatime.com/share/@blumy/49262164-84f7-4915-87c7-4b68488a1821.svg"></embed></figure>
+### Front-End Developer at Pezhvak Data Khazar Company  
+*2022*  
+- Designed and developed a fleet control system dashboard using React.  
+- Implemented state management with Redux and built reusable UI components.  
+- Integrated data from RESTful APIs for dynamic and responsive UI experiences.
+
+### Front-End Developer at Nilasoft Company  
+*2021*  
+- Began my journey in web development as an intern, laying the foundation in front-end technologies and contributing to WordPress projects.
+
+### Technical Specialist at Khazar Informatics Company  
+*2018 – 2021*  
+- Designed network infrastructure and conducted server node testing for hospitals.  
+- Developed network communication guides and provided ongoing technical support and system monitoring.
+
+---
+
+## 🎓 Education
+
+**Chamran University, Rasht, Iran**  
+Bachelor of Computer Engineering, September 2019
+
+---
+
+## 📁 Projects
+
+- **Spad Post**: [Spad Post](https://spadpost.ir/)
+- **Digimoragheb**: [Digimoragheb](https://www.digimoragheb.com/)
+- **Raha Business**: [Raha Business](https://rahabusiness.com/)
+- **Portfolio**: [ali Houshangi | علی هوشنگی](https://portfolio-v2-orcin-phi.vercel.app/)
+
+---
+
+## 📫 Get in Touch
+
+- **Email:** [aliihooshangi@gmail.com](mailto:aliihooshangi@gmail.com)
+- **Phone:** +98 911 544 7316
+- **GitHub:** [alihoushngi](https://github.com/alihoushngi)
+- **LinkedIn:** [in/alihoushngi](https://www.linkedin.com/in/alihoushngi)

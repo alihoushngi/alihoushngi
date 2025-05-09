@@ -13,6 +13,32 @@ I'm a Front-End Developer with over 5 years of experience creating engaging and 
 
 ---
 
+## 🎓 Education
+
+**Chamran University, Rasht, Iran**  
+Bachelor of Computer Engineering, September 2019
+
+---
+
+## 📁 Projects
+
+- **Spad Post:** [Spad Post](https://spadpost.ir/)
+- **Digimoragheb:** [Digimoragheb](https://www.digimoragheb.com/)
+- **Raha Business:** [Raha Business](https://rahabusiness.com/)
+- **Dayere Salamat (دایره سلامت):** [Dayereh Salamat](https://dayereh-salamat.ir/)
+- **Portfolio:** [ali Houshangi | علی هوشنگی](https://portfolio-v2-orcin-phi.vercel.app/)
+
+---
+
+## 📫 Get in Touch
+
+- **Email:** [aliihooshangi@gmail.com](mailto:aliihooshangi@gmail.com)
+- **Phone:** +98 911 544 7316
+- **GitHub:** [alihoushngi](https://github.com/alihoushngi)
+- **LinkedIn:** [in/alihoushngi](https://www.linkedin.com/in/alihoushngi)
+
+---
+
 ## 💼 Experience
 
 ### Front-End Developer at Online Salamat Company  
@@ -47,26 +73,3 @@ I'm a Front-End Developer with over 5 years of experience creating engaging and 
 - Developed network communication guides and provided ongoing technical support and system monitoring.
 
 ---
-
-## 🎓 Education
-
-**Chamran University, Rasht, Iran**  
-Bachelor of Computer Engineering, September 2019
-
----
-
-## 📁 Projects
-
-- **Spad Post**: [Spad Post](https://spadpost.ir/)
-- **Digimoragheb**: [Digimoragheb](https://www.digimoragheb.com/)
-- **Raha Business**: [Raha Business](https://rahabusiness.com/)
-- **Portfolio**: [ali Houshangi | علی هوشنگی](https://portfolio-v2-orcin-phi.vercel.app/)
-
----
-
-## 📫 Get in Touch
-
-- **Email:** [aliihooshangi@gmail.com](mailto:aliihooshangi@gmail.com)
-- **Phone:** +98 911 544 7316
-- **GitHub:** [alihoushngi](https://github.com/alihoushngi)
-- **LinkedIn:** [in/alihoushngi](https://www.linkedin.com/in/alihoushngi)

@@ -8,10 +8,40 @@ I'm a Front-End Developer with over 5 years of experience creating engaging and 
 
 ## 🚀 Skills
 
-- **Languages & Markup:** HTML, CSS, JavaScript, TypeScript, SASS
-- **Frameworks & Libraries:** React, Next.js, Redux, Context API, RTK-Query, Formik, Yup
-- **UI & Styling Tools:** Bootstrap, Tailwind CSS, AOS, i18Next
-- **Other:** Moment.js, ReChart, Leaflet, SEO best practices, cookies-next, RESTful APIs, Git, Figma
+<!-- Languages & Markup -->
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+<!-- Frameworks & Libraries -->
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![RTK Query](https://img.shields.io/badge/RTK_Query-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Formik](https://img.shields.io/badge/Formik-EF7C00?style=for-the-badge&logo=data:image/svg+xml;base64,...&logoColor=white) <!-- Custom SVGs needed for some like Formik -->
+![Yup](https://img.shields.io/badge/Yup-4B5563?style=for-the-badge)
+
+<!-- UI & Styling -->
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![AOS](https://img.shields.io/badge/AOS-E5E5E5?style=for-the-badge&logoColor=black)
+![i18next](https://img.shields.io/badge/i18next-26A69A?style=for-the-badge)
+
+<!-- Other Tools & Tech -->
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![SEO](https://img.shields.io/badge/SEO-008000?style=for-the-badge)
+![Moment.js](https://img.shields.io/badge/Moment.js-black?style=for-the-badge)
+![Recharts](https://img.shields.io/badge/Recharts-FF6F00?style=for-the-badge)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
+![cookies-next](https://img.shields.io/badge/cookies--next-4B5563?style=for-the-badge)
+![Formera](https://img.shields.io/badge/Formera-0088CC?style=for-the-badge)
 
 ---
 

@@ -3,8 +3,7 @@
 
 I'm a Front-End Developer with over 5 years of experience creating engaging and scalable web applications. I specialize in modern frameworks like **Next.js** and **React** and focus on writing clean, maintainable code. Whether I'm developing dynamic dashboards or teaching web design fundamentals, I strive to craft user-centric solutions and collaborate effectively with diverse teams.
 
-
-
+[![WakaTime](https://wakatime.com/badge/user/1938e314-b144-48d0-8045-7d1e6ee4e1c9.svg)](https://wakatime.com/@1938e314-b144-48d0-8045-7d1e6ee4e1c9)
 ---
 
 ## 🚀 Skills
@@ -77,22 +76,17 @@ Bachelor of Computer Engineering, September 2019
 
 ---
 
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=alihoushngi&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## ⏱️ Coding Stats (WakaTime)
-
-[![WakaTime](https://wakatime.com/badge/user/1938e314-b144-48d0-8045-7d1e6ee4e1c9.svg)](https://wakatime.com/@1938e314-b144-48d0-8045-7d1e6ee4e1c9)
-
----
-
 ## 📊 GitHub Stats
 
 ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alihoushngi&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alihoushngi&layout=compact&theme=radical)
+
+---
+
+![GitHub Streak](https://streak-stats.demolab.com?user=alihoushngi&theme=radical)
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=alihoushngi&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---

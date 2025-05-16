@@ -1,6 +1,9 @@
-# Hi, I'm Ali Hooshangi 👋
+# Ali Hooshangi 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F78F1E&vCenter=true&width=435&lines=Hi%2C+I'm+Ali+Hooshangi!👋;I'm+a+Front-End+Developer+%F0%9F%91%BB;Next.js+%7C+React+%7C+TS)](https://github.com/alihooshangi)
 
 I'm a Front-End Developer with over 5 years of experience creating engaging and scalable web applications. I specialize in modern frameworks like **Next.js** and **React** and focus on writing clean, maintainable code. Whether I'm developing dynamic dashboards or teaching web design fundamentals, I strive to craft user-centric solutions and collaborate effectively with diverse teams.
+
+
 
 ---
 
@@ -22,11 +25,11 @@ Bachelor of Computer Engineering, September 2019
 
 ## 📁 Projects
 
-- **Spad Post:** [Spad Post](https://spadpost.ir/)
-- **Digimoragheb:** [Digimoragheb](https://www.digimoragheb.com/)
-- **Raha Business:** [Raha Business](https://rahabusiness.com/)
-- **Dayere Salamat (دایره سلامت):** [Dayereh Salamat](https://dayereh-salamat.ir/)
-- **Portfolio:** [ali Houshangi | علی هوشنگی](https://portfolio-v2-orcin-phi.vercel.app/)
+- 📪 [Spad Post](https://spadpost.ir/) | **Company Private Gitlab**
+- 💊 [Digimoragheb](https://www.digimoragheb.com/) | [GitHub Repo (Medical Consulation Page)](https://github.com/sobhanashine/FMS-Digimoragheb/tree/main/src/app/(landing)/medical-consultation) | [GitHub Repo (Psychologists Page)](https://github.com/sobhanashine/FMS-Digimoragheb/tree/main/src/app/(landing)/psychologists) | [GitHub Repo (Login Page)](https://github.com/sobhanashine/FMS-Digimoragheb/tree/main/src/app/auth/login) | [GitHub Repo (Date Picker Component)](https://github.com/sobhanashine/FMS-Digimoragheb/tree/main/src/components/DatePicker)
+- 🥇 [Raha Business](http://www.rahabusiness.com/) | [GitHub Repo](https://github.com/alihoushngi/Raha)
+- 🚀 [Dayere Salamat (دایره سلامت)](https://dayereh-salamat.ir/) | [GitHub Repo](https://github.com/alihoushngi/Dayereh-Salamat-App)
+- 👤 [Portfolio](https://portfolio-v2-orcin-phi.vercel.app/) | [GitHub Repo](https://github.com/alihoushngi/Portfolio-v2)
 
 ---
 
@@ -71,5 +74,25 @@ Bachelor of Computer Engineering, September 2019
 *2018 – 2021*  
 - Designed network infrastructure and conducted server node testing for hospitals.  
 - Developed network communication guides and provided ongoing technical support and system monitoring.
+
+---
+
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=alihoushngi&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## ⏱️ Coding Stats (WakaTime)
+
+[![WakaTime](https://wakatime.com/badge/user/1938e314-b144-48d0-8045-7d1e6ee4e1c9.svg)](https://wakatime.com/@1938e314-b144-48d0-8045-7d1e6ee4e1c9)
+
+---
+
+## 📊 GitHub Stats
+
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alihoushngi&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alihoushngi&layout=compact&theme=radical)
 
 ---

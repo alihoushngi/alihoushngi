@@ -54,6 +54,7 @@ Bachelor of Computer Engineering, September 2019
 
 ## 📁 Projects
 
+- 🚖 [Pikaap](https://github.com/alihoushngi/pikaap) | **Originally developed on company’s private GitLab**
 - 📪 [Spad Post](https://spadpost.ir/) | **Company Private Gitlab**
 - 💊 [Digimoragheb](https://www.digimoragheb.com/) | [GitHub Repo (Medical Consulation Page)](https://github.com/sobhanashine/FMS-Digimoragheb/tree/main/src/app/(landing)/medical-consultation) | [GitHub Repo (Psychologists Page)](https://github.com/sobhanashine/FMS-Digimoragheb/tree/main/src/app/(landing)/psychologists) | [GitHub Repo (Login Page)](https://github.com/sobhanashine/FMS-Digimoragheb/tree/main/src/app/auth/login) | [GitHub Repo (Date Picker Component)](https://github.com/sobhanashine/FMS-Digimoragheb/tree/main/src/components/DatePicker)
 - 🥇 [Raha Business](http://www.rahabusiness.com/) | [GitHub Repo](https://github.com/alihoushngi/Raha)

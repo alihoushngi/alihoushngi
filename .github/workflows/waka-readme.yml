@@ -5,6 +5,9 @@ on:
     - cron: '0 * * * *'  # هر ساعت آپدیت میشه
   workflow_dispatch:
 
+permissions:
+  contents: write  # این خط ضروریه برای جلوگیری از خطای 403
+
 jobs:
   update-readme:
     name: Update Readme with WakaTime Stats

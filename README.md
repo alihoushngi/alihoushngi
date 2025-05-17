@@ -4,6 +4,7 @@
 I'm a Front-End Developer with over 5 years of experience creating engaging and scalable web applications. I specialize in modern frameworks like **Next.js** and **React** and focus on writing clean, maintainable code. Whether I'm developing dynamic dashboards or teaching web design fundamentals, I strive to craft user-centric solutions and collaborate effectively with diverse teams.
 
 [![WakaTime](https://wakatime.com/badge/user/1938e314-b144-48d0-8045-7d1e6ee4e1c9.svg)](https://wakatime.com/@1938e314-b144-48d0-8045-7d1e6ee4e1c9)
+![Profile views](https://komarev.com/ghpvc/?username=alihoushngi&color=blue)
 ---
 
 ## 🚀 Skills

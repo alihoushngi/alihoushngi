@@ -17,6 +17,7 @@ I'm a Front-End Developer with over 5 years of experience creating engaging and 
 </p>
 
 ---
+  <summary>📊 WakaTime Coding Stats</summary>
 <!--START_SECTION:waka-->
 
 ```txt
@@ -33,6 +34,7 @@ CSS           0 secs          ░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
 ---
 
 ## 🚀 Skills

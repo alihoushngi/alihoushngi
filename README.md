@@ -23,14 +23,14 @@ I'm a Front-End Developer with over 5 years of experience creating engaging and 
 ```txt
 From: 09 May 2025 - To: 16 May 2025
 
-Total Time: 5 hrs 19 mins
+Total Time: 48 hrs 39 mins
 
-Other         43 hrs 20 mins  ██████████████████████▒░░   89.07 %
-TypeScript    2 hrs 2 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
-Image (svg)   1 hr 41 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
-JSON          1 hr 33 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
-TSConfig      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-CSS           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Other         43 hrs 20 mins  ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▃▁▁   89.07 %
+TypeScript    2 hrs 2 mins    ▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   04.21 %
+Image (svg)   1 hr 41 mins    ▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   03.47 %
+JSON          1 hr 33 mins    ▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   03.20 %
+TSConfig      1 min           ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.04 %
+CSS           0 secs          ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.01 %
 ```
 
 <!--END_SECTION:waka-->

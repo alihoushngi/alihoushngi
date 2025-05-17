@@ -17,6 +17,10 @@ I'm a Front-End Developer with over 5 years of experience creating engaging and 
 </p>
 
 ---
+
+![snake gif](https://github.com/alihoushngi/snk/blob/output/github-snake-dark.svg?raw=true)
+
+---
   <summary>📊 WakaTime Coding Stats</summary>
 <!--START_SECTION:waka-->
 

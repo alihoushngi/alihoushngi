@@ -22,16 +22,16 @@ I'm a Front-End Developer with over 5 years of experience creating engaging and 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 December 2024 - To: 26 December 2025
+From: 27 December 2024 - To: 27 December 2025
 
-Total Time: 1,280 hrs 35 mins
+Total Time: 1,283 hrs 29 mins
 
-Other         696 hrs 18 mins ▇▇▇▇▇▇▇▇▇▇▇▇▇▄▁▁▁▁▁▁▁▁▁▁▁   54.37 %
-TypeScript    496 hrs 57 mins ▇▇▇▇▇▇▇▇▇▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   38.81 %
-JavaScript    23 hrs 55 mins  ▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   01.87 %
-JSON          23 hrs 41 mins  ▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   01.85 %
-Image (svg)   20 hrs 34 mins  ▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   01.61 %
-CSS           6 hrs 40 mins   ▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.52 %
+Other         695 hrs 47 mins ▇▇▇▇▇▇▇▇▇▇▇▇▇▄▁▁▁▁▁▁▁▁▁▁▁   54.21 %
+TypeScript    500 hrs 16 mins ▇▇▇▇▇▇▇▇▇▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   38.98 %
+JavaScript    23 hrs 55 mins  ▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   01.86 %
+JSON          23 hrs 42 mins  ▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   01.85 %
+Image (svg)   20 hrs 34 mins  ▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   01.60 %
+CSS           6 hrs 44 mins   ▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.53 %
 ```
 
 <!--END_SECTION:waka-->

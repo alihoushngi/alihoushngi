@@ -22,11 +22,11 @@ I'm a Front-End Developer with over 5 years of experience creating engaging and 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 January 2025 - To: 22 January 2026
+From: 23 January 2025 - To: 23 January 2026
 
-Total Time: 1,180 hrs 17 mins
+Total Time: 1,180 hrs 12 mins
 
-Other         588 hrs 56 mins ▇▇▇▇▇▇▇▇▇▇▇▇▄▁▁▁▁▁▁▁▁▁▁▁▁   49.90 %
+Other         588 hrs 50 mins ▇▇▇▇▇▇▇▇▇▇▇▇▄▁▁▁▁▁▁▁▁▁▁▁▁   49.89 %
 TypeScript    505 hrs 35 mins ▇▇▇▇▇▇▇▇▇▇▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁   42.84 %
 JavaScript    23 hrs 39 mins  ▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   02.00 %
 JSON          23 hrs 6 mins   ▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   01.96 %

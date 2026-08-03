@@ -22,7 +22,7 @@ I'm a Front-End Developer with over 5 years of experience creating engaging and 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 August 2025 - To: 02 August 2026
+From: 03 August 2025 - To: 03 August 2026
 
 Total Time: 616 hrs 8 mins
 

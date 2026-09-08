@@ -109,15 +109,15 @@ A reusable Next.js starter focused on scalable project structure, TypeScript, Re
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 September 2025 - To: 07 September 2026
+From: 08 September 2025 - To: 08 September 2026
 
-Total Time: 600 hrs 22 mins
+Total Time: 598 hrs 40 mins
 
-TypeScript    533 hrs 10 mins       ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▃▁▁   88.81 %
-JSON          13 hrs 12 mins        ▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   02.20 %
+TypeScript    531 hrs 58 mins       ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▃▁▁   88.86 %
+JSON          13 hrs 3 mins         ▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   02.18 %
 Markdown      12 hrs 39 mins        ▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   02.11 %
-JavaScript    8 hrs 4 mins          ▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   01.35 %
-HTML          6 hrs 52 mins         ▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   01.14 %
+JavaScript    7 hrs 51 mins         ▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   01.31 %
+HTML          6 hrs 52 mins         ▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   01.15 %
 CSS           6 hrs 3 mins          ▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   01.01 %
 ```
 
